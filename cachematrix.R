@@ -1,6 +1,6 @@
 -## Put comments here that give an overall description of what your
 -## functions do
-+## Functions that cache the inverse of a matrix
++## The following Functions that cache the inverse of a matrix
 +##
 +## Usage example:
 +##
